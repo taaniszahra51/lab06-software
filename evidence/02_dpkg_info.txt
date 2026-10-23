@@ -1,0 +1,15 @@
+Package: tree
+Status: install ok installed
+Priority: optional
+Section: utils
+Installed-Size: 122
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 2.3.1-1
+Depends: libc6 (>= 2.38)
+Description: displays an indented directory tree, in color
+ Tree is a recursive directory listing command that produces a depth indented
+ listing of files, which is colorized ala dircolors if the LS_COLORS environment
+ variable is set and output is to tty.
+Original-Maintainer: Florian Ernst <florian@debian.org>
+Homepage: http://oldmanprogrammer.net/source.php?dir=projects/tree
