@@ -1,0 +1,4 @@
+Lab 06: Package Management & Text Editing
+User: taaniszahra51
+Tool: Vim Editor Practice
+Status: Completed successsfully
